@@ -2,7 +2,7 @@
 
 The PyTorch (1.4.0) implementation of ["Gradient-Guided Importance Sampling for Learning Discrete Energy-Based Models"](https://openreview.net/forum?id=IEKL-OihqX0) (ICLR-2022, under review)
 
-the official implementation is [here](https://github.com/divelab/RMwGGIS)
+The official implementation is [here](https://github.com/divelab/RMwGGIS).
 
 ## Bio
 
